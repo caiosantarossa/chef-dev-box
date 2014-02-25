@@ -1,0 +1,24 @@
+[submodule "cookbooks/java"]
+	path = cookbooks/java
+	url = https://github.com/socrata-cookbooks/java
+[submodule "cookbooks/postgresql"]
+	path = cookbooks/postgresql
+	url = http://github.com/hw-cookbooks/postgresql
+[submodule "cookbooks/heroku-toolbelt"]
+	path = cookbooks/heroku-toolbelt
+	url = https://github.com/jimeh/chef-heroku-toolbelt
+[submodule "cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "cookbooks/openssl"]
+	path = cookbooks/openssl
+	url = https://github.com/opscode-cookbooks/openssl
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = https://github.com/opscode-cookbooks/apt
+[submodule "cookbooks/play2"]
+	path = cookbooks/play2
+	url = https://github.com/minettiandrea/play2
+[submodule "cookbooks/python"]
+	path = cookbooks/python
+	url = https://github.com/poise/python
