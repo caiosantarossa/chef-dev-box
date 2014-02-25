@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project automates the setup of a development environment for Ruby on Rails. This is the easiest way to build a box with everything ready to start hacking, all in an isolated virtual machine.
+This project automates the setup of a development environment for Java and Python. This is the easiest way to build a box with everything ready to start hacking, all in an isolated virtual machine.
 
 ## Requirements
 
@@ -26,7 +26,6 @@ That's it.
 - Play Framwork 2.1.1
 - Postgresql
 - Python (with PIP and virtualenv)
-- NodeJS
 
 Vagrant is configured to mount your D:/workspace folder within the virtual machine. Change the SYNCED_FOLDER environment variable to choose another folder.
 
