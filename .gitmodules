@@ -22,3 +22,6 @@
 [submodule "cookbooks/python"]
 	path = cookbooks/python
 	url = https://github.com/poise/python
+[submodule "cookbooks/heroku-toolbet"]
+	path = cookbooks/heroku-toolbet
+	url = https://github.com/jimeh/chef-heroku-toolbelt
